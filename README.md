@@ -118,4 +118,18 @@ Now it's time to put it all together and test the Fintech Finder application wit
 
 ---
 
+## Final
+
+    Streamlit application to hire and pay Fintech professionals on through Web3. This utilizes Genache to act as each professionals account as a means for payment through the streamlit app. We can determine each individuals earned wage and finalize their payment transaction.
+
+![Streamlit](Images/Streamlit.png)
+
+--
+
+![Accounts](Images/Accounts.png)
+
+--
+
+![Genache](Images/Transactions.png)
+
 © 2021 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
